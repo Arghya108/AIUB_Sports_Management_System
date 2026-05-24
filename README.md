@@ -1,1 +1,1 @@
-# AIUB_Sports_Management_System
+# AIUB_Sports_Management_System_Design_In_FIGMA
